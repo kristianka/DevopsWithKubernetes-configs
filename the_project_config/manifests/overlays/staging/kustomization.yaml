@@ -21,4 +21,4 @@ namePrefix: staging-
 images:
 - name: PROJECT/IMAGE
   newName: typescriptlover/the_project
-  newTag: 8c7c2b97f5681514c503457f979d0d895cf70de0
+  newTag: 236326f94fc5ce810269613eac56e51f0ef99d83
